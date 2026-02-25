@@ -7,7 +7,7 @@ This repository contains an Excel file that you can download or view.
 
 ## 📊 Example Code (Python)
 
-![Dashboard](C:\Users\vishnusharmananda\Desktop\excel\photo\dashboard.png)
+C:\Users\vishnusharmananda\Desktop\excel\photo
 
 ## Introduction
 

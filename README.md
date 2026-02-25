@@ -1,4 +1,11 @@
 # Excel Salary Dashboard
+This repository contains an Excel file that you can download or view.
+
+## 📁 Excel File
+
+👉 [Click to open my Excel file](https://1drv.ms/x/c/e0dc947c3e2a342e/IQCX_ELObk5ERLqif01P4KStAdH6PdKM2QWUtRxSKDb_9rM?e=jlcs6g)
+
+## 📊 Example Code (Python)
 
 ![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 

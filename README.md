@@ -98,7 +98,7 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+![tyoe](tyoe.png)
 
 📉 Dashboard Implementation:
 

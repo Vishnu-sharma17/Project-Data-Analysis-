@@ -102,7 +102,7 @@ IF(
 
 📉 Dashboard Implementation:
 
-<img src=![tyoe](tyoe.png) width="350" height="500" alt="Salary Dashboard Type">
+<img src="tyoe.png" width="350" height="500" />
 
 ### ❎ Data Validation
 

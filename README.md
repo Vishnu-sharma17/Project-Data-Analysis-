@@ -7,7 +7,7 @@ This repository contains an Excel file that you can download or view.
 
 ## 📊 Example Code (Python)
 
-![Salary Dashboard](dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Introduction
 

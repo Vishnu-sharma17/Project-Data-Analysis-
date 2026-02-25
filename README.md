@@ -7,7 +7,7 @@ This repository contains an Excel file that you can download or view.
 
 ## 📊 Example Code (Python)
 
-![Final Dashboard](Final dash.png)
+![Final Dashboard](final%20dash.png)
 
 ## Introduction
 
